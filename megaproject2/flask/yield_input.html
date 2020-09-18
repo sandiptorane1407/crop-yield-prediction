@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>yieldprediction</title>
+	<meta charset="utf-8">
+	 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<script src="jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='state_district.js')}}">
+	<!--<script type="text/javascript" src="state_district.js">-->
+</script>
+<script type="text/javascript"> 
+
+        window.history.forward(); 
+
+        function noBack() { 
+
+            window.history.forward(); 
+
+        } 
+
+    </script>
+
+<style>
+input[type=text], select {
+  width: 100%;
+  padding: 5px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+</style>
+</head>
+
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top" style="background-color:#33ccff">
+  <div class="container">
+    
+    <br>
+      <div class="row" >
+	  
+	  
+	  <div class="col-lg-4 col-xs-4">
+            <center><a href="#"><font color="white">HOME</font></a></li></center>
+		</div>
+	   <div class="col-lg-4 col-xs-4">
+	        <center><a href="#"><font color="white">CONTACT US</font></a></center>
+		</div>
+	  <div class="col-lg-4 col-xs-4">
+			<center><a href="#"><font color="white">ABOUT US</font></a></center>
+	  </div>
+	  </div>
+   <br>
+	</div>
+</div>
+	<br><br><br>
+	<div>
+		<div class="row">
+			<div class="col-lg-3">
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyp-BR9_B9ondddN-p06Ha4TOkapLra2PHEuKJYUsgqge6RXWW" width="100%" height="500px" >
+			</div>
+			
+			<div class="col-lg-6" style="background-color:white">
+			
+			<form action="/output" method="post" enctype="multipart/form-data">
+			<br>
+<div class="row">
+<div class="col-lg-4">
+<center><font size="5px" ><b>Select State:</b></center> 
+</div>
+
+<div class="col-lg-8">
+<select name='state' id="stateSel" size='1' required>
+<option value="" selected='selected'>Select State</option>
+</select>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-lg-4">
+<center><font size="5px" ><b>Select District:</b> </center>
+</div>
+
+<div class="col-lg-8">
+<select name='district' id="districtSel" size='1' required>
+<option value="" selected='selected'>Please select state first</option>
+</select>
+</div>
+</div>
+
+
+
+
+<div class="row">
+<div class="col-lg-4">
+<center><font size="5px" ><b>Select Year:</b></center>
+</div>
+
+<div class="col-lg-8">
+ <select name='year' id="yearSel" size='1' required>
+<option value="" selected='selected'>Select year</option>
+</select>
+</div>
+</div>
+
+
+
+<div class="row">
+<div class="col-lg-4">
+<center><font size="5px" ><b>Select Season: </b></center>
+</div>
+
+<div class="col-lg-8">
+<select name='season' id="seasonSel" size='1' required>
+<option value="" selected='selected'>Select Season</option>
+</select>
+</div>
+</div>
+
+
+
+
+<div class="row">
+<div class="col-lg-4">
+<center><font size="5px" ><b>Select crop: </b></center>
+</div>
+<div class="col-lg-8">
+<select name='crop' id="cropSel" size='1' required>
+<option value="" selected='selected'>Please select season first</option>
+</select>
+</div>
+</div>
+
+<br>
+
+<div class="row">
+<div class="col-lg-4">
+<center><font size="5px" ><b>Enter Area: </b></center>
+</div>
+
+<div class="col-lg-8">
+<input type='number' name='area' placeholder='1.0 (In Hectors)' step='0.01' min='0' max='200000000' required></input>
+</div>
+</div>
+
+<br>
+<center>
+<input type='submit'>
+</center>
+<br>
+</form>
+
+			</div>
+			
+			<div class="col-lg-3">
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToQp7dh79ZreeJ64TfRSma8fItnNIXALRlCOgO41ArlLQKBiMA"width="100%" height="500px" />
+				
+			</div>
+		</div>
+	</div>
+	
+<div style="background-color:#999966" class="container-fluid" style="margin-top:25px">
+
+<center>
+<ul type="none">
+
+	<li><font color="white" size="6px">FOLLOW US</font>&nbsp;&nbsp;
+		<font size="6px"><a><i class="fab fa-facebook-square"></i></a></font>&nbsp;&nbsp;
+		<font size="6px"><a><i class="fab fa-google-plus"></i></a></font>&nbsp;&nbsp;
+		<font size="6px"><a><i class="fab fa-instagram"></i></a></font>&nbsp;&nbsp;
+		<font size="6px"><a><i class="fab fa-youtube"></i></a></font>&nbsp;&nbsp;
+		<font size="6px"><a><i class="fab fa-twitter"></i></a></font></li>
+</ul> 
+</center>
+
+
+</div>
+
+
+</body>
+</html>
+	

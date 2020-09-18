@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>yieldprediction</title>
+	<meta charset="utf-8">
+	 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link href="css/bootstrap.min.css" rel="stylesheet"> 
+	<script src="jquery-3.3.1.js"> </script>
+	
+</head>
+
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top" style="background-color:#33ccff">
+  <div class="container">
+    
+    <br>
+      <div class="row" >
+	  
+	  
+	  <div class="col-lg-4 col-xs-4">
+            <center><a href="#"><font color="white">HOME</font></a></li></center>
+		</div>
+	   <div class="col-lg-4 col-xs-4">
+	        <center><a href="#"><font color="white">CONTACT US</font></a></center>
+		</div>
+	  <div class="col-lg-4 col-xs-4">
+			<center><a href="#"><font color="white">ABOUT US</font></a></center>
+	  </div>
+	  </div>
+   <br>
+	</div>
+</div>
+	<br><br><br>
+	<div>
+		<div class="row">
+			<div class="col-lg-3">
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyp-BR9_B9ondddN-p06Ha4TOkapLra2PHEuKJYUsgqge6RXWW"width="100%" height="500px" >
+			</div>
+			
+			<div class="col-lg-6" style="background-color:white">
+			<br><br>
+			<center><font size="6px">PREDICTED YIELD</font></center>
+			<br>
+				 <table border = "1" cellspacing="10px" cellpadding="10px" width="100%" >
+				<center> 
+            <tr>
+               <th> State  </th> <th> District </th> <th>  Year  </th> <th>  Season  </th> <th>  Crop  </th> <th>  Area  </th>
+            </tr></center>
+			<tr>
+			   <td> {{ state }} </td> <td> {{ district }} </td> <td> {{ year }} </td> <td> {{ season }} </td> <td> {{ crop }} </td> <td> {{ area }} </td>
+            </tr>
+      </table>
+	  
+	 <br><br>
+	 
+	 <center><font size="6px"> Your Crop Production will be </font></center>
+	 <center><p><font size="6px" color="#33ccff">{{production}}  Tones per Hectare</font></p></center>
+	 <br>
+	 <center> <form action="/" ><input type="submit" value="Try another"></input></form></center>
+
+			</div>
+			
+			<div class="col-lg-3">
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToQp7dh79ZreeJ64TfRSma8fItnNIXALRlCOgO41ArlLQKBiMA"width="100%" height="500px" >
+				
+			</div>
+		</div>
+	</div>
+	
+<div style="background-color:#999966" class="container-fluid" style="margin-top:25px">
+
+<center>
+<ul type="none">
+
+	<li><font color="white" size="6px">FOLLOW US</font>&nbsp;&nbsp;
+		<font size="6px"><a><i class="fab fa-facebook-square"></i></a></font>&nbsp;&nbsp;
+		<font size="6px"><a><i class="fab fa-google-plus"></i></a></font>&nbsp;&nbsp;
+		<font size="6px"><a><i class="fab fa-instagram"></i></a></font>&nbsp;&nbsp;
+		<font size="6px"><a><i class="fab fa-youtube"></i></a></font>&nbsp;&nbsp;
+		<font size="6px"><a><i class="fab fa-twitter"></i></a></font></li>
+</ul> 
+</center>
+
+
+</div>
+
+
+</body>
+</html>
+	

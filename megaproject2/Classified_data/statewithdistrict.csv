@@ -1,0 +1,647 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Arecanut,1254.0,2000.0
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,2000,Kharif     ,Arecanut,3100.0,5200.0
+Andaman and Nicobar Islands,SOUTH ANDAMANS,2002,Kharif     ,Rice,10695.8,31600.82
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Arhar/Tur,21400.0,2600.0
+Andhra Pradesh,CHITTOOR,1997,Kharif     ,Arhar/Tur,6100.0,900.0
+Andhra Pradesh,EAST GODAVARI,1997,Kharif     ,Arhar/Tur,1600.0,300.0
+Andhra Pradesh,GUNTUR,1997,Kharif     ,Arhar/Tur,28400.0,14900.0
+Andhra Pradesh,KADAPA,1997,Kharif     ,Arhar/Tur,5700.0,1400.0
+Andhra Pradesh,KRISHNA,1997,Kharif     ,Arhar/Tur,10700.0,3400.0
+Andhra Pradesh,KURNOOL,1997,Kharif     ,Arhar/Tur,20900.0,6400.0
+Andhra Pradesh,PRAKASAM,1997,Kharif     ,Arhar/Tur,34700.0,2200.0
+Andhra Pradesh,SPSR NELLORE,1997,Kharif     ,Arhar/Tur,200.0,100.0
+Andhra Pradesh,SRIKAKULAM,1997,Kharif     ,Arhar/Tur,1600.0,400.0
+Andhra Pradesh,VISAKHAPATANAM,1997,Kharif     ,Arhar/Tur,4800.0,800.0
+Andhra Pradesh,VIZIANAGARAM,1997,Kharif     ,Arhar/Tur,1600.0,400.0
+Andhra Pradesh,WEST GODAVARI,1997,Kharif     ,Arhar/Tur,500.0,100.0
+Arunachal Pradesh,ANJAW,2004,Kharif     ,Maize,2453.0,2674.0
+Arunachal Pradesh,CHANGLANG,1997,Kharif     ,Maize,1520.0,2725.0
+Arunachal Pradesh,DIBANG VALLEY,1997,Kharif     ,Maize,5212.0,7557.0
+Arunachal Pradesh,EAST KAMENG,1997,Kharif     ,Maize,1485.0,2652.0
+Arunachal Pradesh,EAST SIANG,1997,Kharif     ,Maize,2332.0,4196.0
+Arunachal Pradesh,KURUNG KUMEY,2002,Kharif     ,Maize,1450.0,1840.0
+Arunachal Pradesh,LOHIT,1997,Kharif     ,Maize,7375.0,6099.0
+Arunachal Pradesh,LONGDING,2013,Kharif     ,Maize,1530.0,3506.0
+Arunachal Pradesh,LOWER DIBANG VALLEY,2002,Kharif     ,Maize,5400.0,8910.0
+Arunachal Pradesh,LOWER SUBANSIRI,1997,Kharif     ,Maize,3794.0,6876.0
+Arunachal Pradesh,NAMSAI,2014,Whole Year ,Potato,119.0,794.0
+Arunachal Pradesh,PAPUM PARE,1997,Kharif     ,Maize,1460.0,2305.0
+Arunachal Pradesh,TAWANG,1997,Kharif     ,Maize,801.0,1442.0
+Arunachal Pradesh,TIRAP,1997,Kharif     ,Maize,2480.0,3100.0
+Arunachal Pradesh,UPPER SIANG,1997,Kharif     ,Maize,668.0,2014.0
+Arunachal Pradesh,UPPER SUBANSIRI,1997,Kharif     ,Maize,796.0,1560.0
+Arunachal Pradesh,WEST KAMENG,1997,Kharif     ,Maize,3651.0,5659.0
+Arunachal Pradesh,WEST SIANG,1997,Kharif     ,Maize,2930.0,3840.0
+Assam,BAKSA,2005,Autumn     ,Rice,17083.0,15415.0
+Assam,BARPETA,1997,Autumn     ,Rice,83560.0,43512.0
+Assam,BONGAIGAON,1997,Autumn     ,Rice,29514.0,14056.0
+Assam,CACHAR,1997,Autumn     ,Rice,8278.0,7956.0
+Assam,CHIRANG,2005,Autumn     ,Rice,10417.0,8313.0
+Assam,DARRANG,1997,Autumn     ,Rice,68782.0,40252.0
+Assam,DHEMAJI,1997,Autumn     ,Rice,12750.0,7036.0
+Assam,DHUBRI,1997,Autumn     ,Rice,62078.0,25030.0
+Assam,DIBRUGARH,1997,Autumn     ,Rice,10448.0,13674.0
+Assam,DIMA HASAO,1997,Autumn     ,Rice,5984.0,5393.0
+Assam,GOALPARA,1997,Autumn     ,Rice,22550.0,17189.0
+Assam,GOLAGHAT,1997,Autumn     ,Rice,4427.0,3110.0
+Assam,HAILAKANDI,1997,Autumn     ,Rice,6500.0,8907.0
+Assam,JORHAT,1997,Autumn     ,Rice,5370.0,4670.0
+Assam,KAMRUP,1997,Autumn     ,Rice,52303.0,38310.0
+Assam,KAMRUP METRO,2005,Autumn     ,Rice,1121.0,1450.0
+Assam,KARBI ANGLONG,1997,Autumn     ,Rice,10354.0,7833.0
+Assam,KARIMGANJ,1997,Autumn     ,Rice,7332.0,8936.0
+Assam,KOKRAJHAR,1997,Autumn     ,Rice,31005.0,16292.0
+Assam,LAKHIMPUR,1997,Autumn     ,Rice,18325.0,11793.0
+Assam,MARIGAON,1997,Autumn     ,Rice,27010.0,14050.0
+Assam,NAGAON,1997,Autumn     ,Rice,57555.0,54868.0
+Assam,NALBARI,1997,Autumn     ,Rice,41500.0,24528.0
+Assam,SIVASAGAR,1997,Autumn     ,Rice,2512.0,2408.0
+Assam,SONITPUR,1997,Autumn     ,Rice,31431.0,20768.0
+Assam,TINSUKIA,1997,Autumn     ,Rice,7790.0,7740.0
+Assam,UDALGURI,2005,Autumn     ,Rice,21750.0,14532.0
+Bihar,ARARIA,1997,Autumn     ,Rice,17876.0,21397.0
+Bihar,ARWAL,2003,Autumn     ,Rice,10.0,13.0
+Bihar,AURANGABAD,1997,Kharif     ,Arhar/Tur,745.0,531.0
+Bihar,BANKA,1997,Autumn     ,Rice,38.0,59.0
+Bihar,BEGUSARAI,1997,Autumn     ,Rice,7812.0,11698.0
+Bihar,BHAGALPUR,1997,Autumn     ,Rice,1215.0,1867.0
+Bihar,BHOJPUR,1997,Autumn     ,Rice,682.0,733.0
+Bihar,BUXAR,1997,Kharif     ,Arhar/Tur,956.0,935.0
+Bihar,DARBHANGA,1997,Autumn     ,Rice,19578.0,19904.0
+Bihar,GAYA,1997,Autumn     ,Rice,2816.0,4607.0
+Bihar,GOPALGANJ,1997,Autumn     ,Rice,73672.0,119083.0
+Bihar,JAMUI,1997,Kharif     ,Arhar/Tur,306.0,229.0
+Bihar,JEHANABAD,1997,Autumn     ,Rice,3.0,3.0
+Bihar,KAIMUR (BHABUA),1997,Autumn     ,Rice,367.0,395.0
+Bihar,KATIHAR,1997,Autumn     ,Rice,21370.0,24893.0
+Bihar,KHAGARIA,1997,Autumn     ,Rice,6967.0,4272.0
+Bihar,KISHANGANJ,1997,Autumn     ,Rice,12838.0,10254.0
+Bihar,LAKHISARAI,1997,Kharif     ,Arhar/Tur,77.0,57.0
+Bihar,MADHEPURA,1997,Autumn     ,Rice,18452.0,26003.0
+Bihar,MADHUBANI,1997,Autumn     ,Rice,25274.0,32983.0
+Bihar,MUNGER,1997,Autumn     ,Rice,5.0,5.0
+Bihar,MUZAFFARPUR,1997,Autumn     ,Rice,28848.0,34285.0
+Bihar,NALANDA,1997,Kharif     ,Arhar/Tur,359.0,745.0
+Bihar,NAWADA,1997,Autumn     ,Rice,2.0,2.0
+Bihar,PASHCHIM CHAMPARAN,1997,Autumn     ,Rice,80375.0,147314.0
+Bihar,PATNA,1997,Autumn     ,Rice,1179.0,1594.0
+Bihar,PURBI CHAMPARAN,1997,Autumn     ,Rice,65949.0,83328.0
+Bihar,PURNIA,1997,Autumn     ,Rice,19065.0,23419.0
+Bihar,ROHTAS,1997,Autumn     ,Rice,1047.0,1637.0
+Bihar,SAHARSA,1997,Autumn     ,Rice,12672.0,12324.0
+Bihar,SAMASTIPUR,1997,Autumn     ,Rice,30879.0,41438.0
+Bihar,SARAN,1997,Autumn     ,Rice,20955.0,29940.0
+Bihar,SHEIKHPURA,1997,Kharif     ,Arhar/Tur,85.0,61.0
+Bihar,SHEOHAR,1997,Autumn     ,Rice,5376.0,8612.0
+Bihar,SITAMARHI,1997,Autumn     ,Rice,22925.0,28028.0
+Bihar,SIWAN,1997,Autumn     ,Rice,35529.0,37976.0
+Bihar,SUPAUL,1997,Autumn     ,Rice,16354.0,20397.0
+Bihar,VAISHALI,1997,Autumn     ,Rice,8561.0,7602.0
+Chandigarh,CHANDIGARH,1998,Kharif     ,Arhar/Tur,8.0,8.0
+Chhattisgarh,BALOD,2011,Kharif     ,Arhar/Tur,607.0,290.0
+Chhattisgarh,BALODA BAZAR,2011,Kharif     ,Arhar/Tur,1492.0,474.0
+Chhattisgarh,BALRAMPUR,2011,Kharif     ,Arhar/Tur,8362.0,3652.0
+Chhattisgarh,BASTAR,2000,Kharif     ,Arhar/Tur,975.0,565.0
+Chhattisgarh,BEMETARA,2011,Kharif     ,Arhar/Tur,4495.0,2144.0
+Chhattisgarh,BIJAPUR,2006,Kharif     ,Small millets,1272.0,11.0
+Chhattisgarh,BILASPUR,2000,Kharif     ,Arhar/Tur,3295.0,1480.0
+Chhattisgarh,DANTEWADA,2000,Kharif     ,Arhar/Tur,968.0,492.0
+Chhattisgarh,DHAMTARI,2000,Kharif     ,Arhar/Tur,176.0,51.0
+Chhattisgarh,DURG,2000,Kharif     ,Arhar/Tur,6191.0,1937.0
+Chhattisgarh,GARIYABAND,2011,Kharif     ,Arhar/Tur,610.0,195.0
+Chhattisgarh,JANJGIR-CHAMPA,2000,Kharif     ,Arhar/Tur,855.0,435.0
+Chhattisgarh,JASHPUR,2000,Kharif     ,Arhar/Tur,3084.0,1590.0
+Chhattisgarh,KABIRDHAM,2000,Kharif     ,Arhar/Tur,6220.0,1946.0
+Chhattisgarh,KANKER,2000,Kharif     ,Arhar/Tur,447.0,196.0
+Chhattisgarh,KONDAGAON,2011,Kharif     ,Arhar/Tur,166.0,93.0
+Chhattisgarh,KORBA,2000,Kharif     ,Arhar/Tur,696.0,307.0
+Chhattisgarh,KOREA,2000,Kharif     ,Arhar/Tur,2731.0,1385.0
+Chhattisgarh,MAHASAMUND,2000,Kharif     ,Arhar/Tur,888.0,307.0
+Chhattisgarh,MUNGELI,2011,Kharif     ,Arhar/Tur,1987.0,1027.0
+Chhattisgarh,NARAYANPUR,2005,Kharif     ,Mesta,18.0,52.0
+Chhattisgarh,RAIGARH,2000,Kharif     ,Arhar/Tur,1254.0,496.0
+Chhattisgarh,RAIPUR,2000,Kharif     ,Arhar/Tur,2615.0,705.0
+Chhattisgarh,RAJNANDGAON,2000,Kharif     ,Arhar/Tur,5625.0,2288.0
+Chhattisgarh,SUKMA,2011,Kharif     ,Arhar/Tur,385.0,137.0
+Chhattisgarh,SURAJPUR,2011,Kharif     ,Arhar/Tur,3778.0,1650.0
+Chhattisgarh,SURGUJA,2000,Kharif     ,Arhar/Tur,13363.0,7005.0
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,1998,Kharif     ,Arhar/Tur,1624.0,1440.0
+Goa,NORTH GOA,1997,Kharif     ,Groundnut,310.0,376.0
+Goa,SOUTH GOA,1997,Kharif     ,Groundnut,40.0,71.0
+Gujarat,AHMADABAD,1997,Kharif     ,Arhar/Tur,2900.0,2200.0
+Gujarat,AMRELI,1997,Kharif     ,Arhar/Tur,1100.0,800.0
+Gujarat,ANAND,2003,Kharif     ,Arhar/Tur,1100.0,900.0
+Gujarat,BANAS KANTHA,1997,Kharif     ,Arhar/Tur,5100.0,3800.0
+Gujarat,BHARUCH,1997,Kharif     ,Arhar/Tur,124500.0,64700.0
+Gujarat,BHAVNAGAR,1997,Kharif     ,Arhar/Tur,2300.0,1700.0
+Gujarat,DANG,1997,Kharif     ,Arhar/Tur,3200.0,2400.0
+Gujarat,DOHAD,2003,Kharif     ,Arhar/Tur,13500.0,15400.0
+Gujarat,GANDHINAGAR,1997,Kharif     ,Arhar/Tur,200.0,200.0
+Gujarat,JAMNAGAR,1997,Kharif     ,Arhar/Tur,6300.0,4700.0
+Gujarat,JUNAGADH,1997,Kharif     ,Arhar/Tur,3100.0,2300.0
+Gujarat,KACHCHH,1997,Kharif     ,Arhar/Tur,300.0,200.0
+Gujarat,KHEDA,1997,Kharif     ,Arhar/Tur,14400.0,10400.0
+Gujarat,MAHESANA,1997,Kharif     ,Arhar/Tur,1800.0,1400.0
+Gujarat,NARMADA,2003,Kharif     ,Arhar/Tur,23400.0,22600.0
+Gujarat,NAVSARI,2003,Kharif     ,Arhar/Tur,2900.0,2500.0
+Gujarat,PANCH MAHALS,1997,Kharif     ,Arhar/Tur,45900.0,49400.0
+Gujarat,PATAN,2003,Kharif     ,Arhar/Tur,1700.0,1500.0
+Gujarat,PORBANDAR,2003,Kharif     ,Arhar/Tur,100.0,100.0
+Gujarat,RAJKOT,1997,Kharif     ,Arhar/Tur,2700.0,2000.0
+Gujarat,SABAR KANTHA,1997,Kharif     ,Arhar/Tur,46200.0,46700.0
+Gujarat,SURAT,1997,Kharif     ,Arhar/Tur,23800.0,17000.0
+Gujarat,SURENDRANAGAR,1997,Kharif     ,Arhar/Tur,200.0,200.0
+Gujarat,TAPI,2008,Kharif     ,Arhar/Tur,14600.0,8300.0
+Gujarat,VADODARA,1997,Kharif     ,Arhar/Tur,105400.0,82600.0
+Gujarat,VALSAD,1997,Kharif     ,Arhar/Tur,6200.0,3500.0
+Haryana,AMBALA,1997,Kharif     ,Bajra,1000.0,1000.0
+Haryana,BHIWANI,1997,Kharif     ,Bajra,187000.0,153000.0
+Haryana,FARIDABAD,1997,Kharif     ,Bajra,19000.0,22000.0
+Haryana,FATEHABAD,1997,Kharif     ,Bajra,11000.0,17000.0
+Haryana,GURGAON,1997,Kharif     ,Bajra,52000.0,58000.0
+Haryana,HISAR,1997,Kharif     ,Bajra,62000.0,109000.0
+Haryana,JHAJJAR,1997,Kharif     ,Bajra,29000.0,33000.0
+Haryana,JIND,1997,Kharif     ,Bajra,39000.0,56000.0
+Haryana,KAITHAL,1997,Kharif     ,Bajra,6000.0,11000.0
+Haryana,KARNAL,1997,Kharif     ,Bajra,2000.0,2000.0
+Haryana,KURUKSHETRA,1997,Kharif     ,Maize,1000.0,2000.0
+Haryana,MAHENDRAGARH,1997,Kharif     ,Bajra,92000.0,117000.0
+Haryana,MEWAT,2005,Kharif     ,Arhar/Tur,401.0,400.0
+Haryana,PALWAL,2008,Kharif     ,Arhar/Tur,1591.0,1600.0
+Haryana,PANCHKULA,1997,Kharif     ,Bajra,1000.0,1000.0
+Haryana,PANIPAT,1997,Kharif     ,Bajra,1000.0,1000.0
+Haryana,REWARI,1997,Kharif     ,Bajra,49000.0,53000.0
+Haryana,ROHTAK,1997,Kharif     ,Bajra,19000.0,22000.0
+Haryana,SIRSA,1997,Kharif     ,Bajra,4000.0,4000.0
+Haryana,SONIPAT,1997,Kharif     ,Bajra,9000.0,13000.0
+Haryana,YAMUNANAGAR,1997,Kharif     ,Bajra,1000.0,1000.0
+Himachal Pradesh,CHAMBA,1998,Kharif     ,Horse-gram,333.0,141.0
+Himachal Pradesh,HAMIRPUR,1998,Kharif     ,Bajra,2.0,1.0
+Himachal Pradesh,KANGRA,1998,Kharif     ,Bajra,435.0,241.0
+Himachal Pradesh,KINNAUR,1998,Kharif     ,Maize,295.0,649.0
+Himachal Pradesh,KULLU,1998,Kharif     ,Groundnut,1.0,1.0
+Himachal Pradesh,LAHUL AND SPITI,1998,Kharif     ,Maize,35.0,77.0
+Himachal Pradesh,MANDI,1998,Kharif     ,Bajra,16.0,9.0
+Himachal Pradesh,SHIMLA,1998,Kharif     ,Arhar/Tur,24.0,6.0
+Himachal Pradesh,SIRMAUR,1998,Kharif     ,Arhar/Tur,7.0,2.0
+Himachal Pradesh,SOLAN,1998,Kharif     ,Arhar/Tur,93.0,21.0
+Himachal Pradesh,UNA,1998,Kharif     ,Groundnut,3.0,3.0
+Jammu and Kashmir ,ANANTNAG,1997,Kharif     ,Maize,21291.0,19100.0
+Jammu and Kashmir ,BADGAM,1997,Kharif     ,Maize,12876.0,6800.0
+Jammu and Kashmir ,BANDIPORA,2007,Kharif     ,Maize,5144.0,4870.0
+Jammu and Kashmir ,BARAMULLA,1997,Kharif     ,Maize,25193.0,19100.0
+Jammu and Kashmir ,DODA,1997,Kharif     ,Maize,48194.0,78500.0
+Jammu and Kashmir ,GANDERBAL,2007,Kharif     ,Maize,3397.0,3940.0
+Jammu and Kashmir ,JAMMU,1997,Kharif     ,Maize,26766.0,41900.0
+Jammu and Kashmir ,KARGIL,1997,Rabi       ,Wheat,1603.0,1390.0
+Jammu and Kashmir ,KATHUA,1997,Kharif     ,Maize,15893.0,28900.0
+Jammu and Kashmir ,KISHTWAR,2007,Kharif     ,Barley,16.0,4.2
+Jammu and Kashmir ,KULGAM,2007,Kharif     ,Dry chillies,26.0,30.8
+Jammu and Kashmir ,KUPWARA,1997,Kharif     ,Maize,21774.0,12100.0
+Jammu and Kashmir ,LEH LADAKH,1997,Rabi       ,Wheat,3725.0,2920.0
+Jammu and Kashmir ,POONCH,1997,Kharif     ,Maize,23674.0,46200.0
+Jammu and Kashmir ,PULWAMA,1997,Kharif     ,Maize,9620.0,9900.0
+Jammu and Kashmir ,RAJAURI,1997,Kharif     ,Maize,44683.0,80800.0
+Jammu and Kashmir ,RAMBAN,2007,Kharif     ,Maize,16912.0,19290.0
+Jammu and Kashmir ,REASI,2007,Kharif     ,Bajra,359.0,215.4
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Bajra,5521.0,3307.8
+Jammu and Kashmir ,SHOPIAN,2007,Kharif     ,Maize,1479.0,1360.0
+Jammu and Kashmir ,SRINAGAR,1997,Kharif     ,Maize,5344.0,6500.0
+Jammu and Kashmir ,UDHAMPUR,1997,Kharif     ,Maize,55575.0,91100.0
+Jharkhand,BOKARO,2002,Autumn     ,Maize,1589.28,2223.4
+Jharkhand,CHATRA,2002,Autumn     ,Maize,4679.7,6766.85
+Jharkhand,DEOGHAR,2002,Autumn     ,Maize,2778.16,3011.53
+Jharkhand,DHANBAD,2002,Autumn     ,Maize,1353.91,1150.82
+Jharkhand,DUMKA,2002,Autumn     ,Maize,11002.27,16503.4
+Jharkhand,EAST SINGHBUM,2002,Autumn     ,Rice,2525.35,1870.44
+Jharkhand,GARHWA,2002,Rabi       ,Arhar/Tur,4422.75,6952.56
+Jharkhand,GIRIDIH,2002,Autumn     ,Maize,9656.45,8488.01
+Jharkhand,GODDA,2002,Autumn     ,Maize,4690.39,5398.63
+Jharkhand,GUMLA,2002,Autumn     ,Maize,1936.99,2151.99
+Jharkhand,HAZARIBAGH,2002,Autumn     ,Maize,8017.0,7656.24
+Jharkhand,JAMTARA,2003,Autumn     ,Maize,2770.74,4951.31
+Jharkhand,KHUNTI,2010,Rabi       ,Arhar/Tur,443.0,558.0
+Jharkhand,KODERMA,2002,Autumn     ,Ragi,627.4,766.05
+Jharkhand,LATEHAR,2003,Autumn     ,Maize,10365.92,22317.83
+Jharkhand,LOHARDAGA,2002,Autumn     ,Ragi,1863.34,1043.47
+Jharkhand,PAKUR,2002,Autumn     ,Maize,2730.54,4912.24
+Jharkhand,PALAMU,2002,Autumn     ,Maize,9659.7,11127.97
+Jharkhand,RAMGARH,2010,Rabi       ,Arhar/Tur,127.0,241.0
+Jharkhand,RANCHI,2002,Autumn     ,Maize,3453.05,3895.04
+Jharkhand,SAHEBGANJ,2002,Autumn     ,Maize,12.2,19.11
+Jharkhand,SARAIKELA KHARSAWAN,2003,Autumn     ,Maize,3251.07,4356.43
+Jharkhand,SIMDEGA,2003,Autumn     ,Maize,590.45,577.46
+Jharkhand,WEST SINGHBHUM,2002,Autumn     ,Maize,1220.69,1004.62
+Karnataka,BAGALKOT,1998,Kharif     ,Arhar/Tur,6154.0,2602.0
+Karnataka,BANGALORE RURAL,1997,Kharif     ,Paddy,11240.0,39367.0
+Karnataka,BELGAUM,1997,Kharif     ,Arhar/Tur,11268.0,1820.0
+Karnataka,BELLARY,1997,Kharif     ,Arhar/Tur,10477.0,3324.0
+Karnataka,BENGALURU URBAN,1997,Kharif     ,Arhar/Tur,6057.0,4131.0
+Karnataka,BIDAR,1997,Kharif     ,Arhar/Tur,48463.0,3499.0
+Karnataka,CHAMARAJANAGAR,1998,Kharif     ,Arhar/Tur,2487.0,572.0
+Karnataka,CHIKBALLAPUR,2007,Kharif     ,Arhar/Tur,7021.0,3001.0
+Karnataka,CHIKMAGALUR,1997,Kharif     ,Arhar/Tur,930.0,217.0
+Karnataka,CHITRADURGA,1997,Kharif     ,Arhar/Tur,10247.0,4225.0
+Karnataka,DAKSHIN KANNAD,1997,Kharif     ,Black pepper,1059.0,245.0
+Karnataka,DAVANGERE,1998,Kharif     ,Arhar/Tur,6657.0,3428.0
+Karnataka,DHARWAD,1997,Kharif     ,Arhar/Tur,13160.0,4851.0
+Karnataka,GADAG,1998,Kharif     ,Arhar/Tur,2449.0,503.0
+Karnataka,GULBARGA,1997,Kharif     ,Arhar/Tur,238994.0,60394.0
+Karnataka,HASSAN,1997,Kharif     ,Arhar/Tur,3432.0,828.0
+Karnataka,HAVERI,1998,Kharif     ,Arhar/Tur,7477.0,2216.0
+Karnataka,KODAGU,1997,Kharif     ,Black pepper,1385.0,393.0
+Karnataka,KOLAR,1997,Kharif     ,Arhar/Tur,9925.0,3432.0
+Karnataka,KOPPAL,1998,Kharif     ,Arhar/Tur,13481.0,2818.0
+Karnataka,MANDYA,1997,Kharif     ,Arhar/Tur,1806.0,422.0
+Karnataka,MYSORE,1997,Kharif     ,Arhar/Tur,7509.0,1812.0
+Karnataka,RAICHUR,1997,Kharif     ,Arhar/Tur,25952.0,3156.0
+Karnataka,RAMANAGARA,2007,Kharif     ,Arhar/Tur,3615.0,3115.0
+Karnataka,SHIMOGA,1997,Kharif     ,Arhar/Tur,1951.0,456.0
+Karnataka,TUMKUR,1997,Kharif     ,Arhar/Tur,11135.0,3427.0
+Karnataka,UDUPI,1998,Kharif     ,Dry ginger,128.0,1507.0
+Karnataka,UTTAR KANNAD,1997,Kharif     ,Arhar/Tur,218.0,51.0
+Karnataka,YADGIR,2010,Kharif     ,Arhar/Tur,67495.0,48218.0
+Kerala,ALAPPUZHA,1997,Whole Year ,Arecanut,2253.0,1518.0
+Kerala,ERNAKULAM,1997,Whole Year ,Arecanut,3513.0,6148.0
+Kerala,IDUKKI,1997,Whole Year ,Arecanut,4616.0,7131.0
+Kerala,KANNUR,1997,Whole Year ,Arecanut,10588.0,14786.0
+Kerala,KASARAGOD,1997,Whole Year ,Arecanut,9170.0,13737.0
+Kerala,KOLLAM,1997,Whole Year ,Arecanut,2626.0,2430.0
+Kerala,KOTTAYAM,1997,Whole Year ,Arecanut,1389.0,868.0
+Kerala,KOZHIKODE,1997,Whole Year ,Arecanut,7434.0,10194.0
+Kerala,MALAPPURAM,1997,Whole Year ,Arecanut,14893.0,14240.0
+Kerala,PALAKKAD,1997,Whole Year ,Arecanut,4425.0,3336.0
+Kerala,PATHANAMTHITTA,1997,Whole Year ,Arecanut,1306.0,1873.0
+Kerala,THIRUVANANTHAPURAM,1997,Whole Year ,Arecanut,1079.0,491.0
+Kerala,THRISSUR,1997,Whole Year ,Arecanut,6238.0,9140.0
+Kerala,WAYANAD,1997,Whole Year ,Arecanut,6615.0,8103.0
+Madhya Pradesh,AGAR MALWA,2013,Kharif     ,Arhar/Tur,1834.0,739.0
+Madhya Pradesh,ALIRAJPUR,2008,Kharif     ,Arhar/Tur,2421.0,1270.0
+Madhya Pradesh,ANUPPUR,2003,Kharif     ,Arhar/Tur,3722.0,1895.0
+Madhya Pradesh,ASHOKNAGAR,2003,Kharif     ,Arhar/Tur,24.0,14.0
+Madhya Pradesh,BALAGHAT,1997,Kharif     ,Arhar/Tur,3000.0,2700.0
+Madhya Pradesh,BARWANI,1998,Kharif     ,Arhar/Tur,5400.0,3000.0
+Madhya Pradesh,BETUL,1997,Kharif     ,Arhar/Tur,16900.0,9300.0
+Madhya Pradesh,BHIND,1997,Kharif     ,Arhar/Tur,9300.0,5700.0
+Madhya Pradesh,BHOPAL,1997,Kharif     ,Arhar/Tur,800.0,500.0
+Madhya Pradesh,BURHANPUR,2003,Kharif     ,Arhar/Tur,3991.0,4409.0
+Madhya Pradesh,CHHATARPUR,1997,Kharif     ,Arhar/Tur,11400.0,6100.0
+Madhya Pradesh,CHHINDWARA,1997,Kharif     ,Arhar/Tur,23600.0,25000.0
+Madhya Pradesh,DAMOH,1997,Kharif     ,Arhar/Tur,2800.0,1700.0
+Madhya Pradesh,DATIA,1997,Kharif     ,Arhar/Tur,4400.0,2700.0
+Madhya Pradesh,DEWAS,1997,Kharif     ,Arhar/Tur,10100.0,5200.0
+Madhya Pradesh,DHAR,1997,Kharif     ,Arhar/Tur,5200.0,3000.0
+Madhya Pradesh,DINDORI,1998,Kharif     ,Arhar/Tur,2400.0,2800.0
+Madhya Pradesh,GUNA,1997,Kharif     ,Arhar/Tur,1300.0,800.0
+Madhya Pradesh,GWALIOR,1997,Kharif     ,Arhar/Tur,4600.0,3300.0
+Madhya Pradesh,HARDA,1998,Kharif     ,Arhar/Tur,3300.0,4500.0
+Madhya Pradesh,HOSHANGABAD,1997,Kharif     ,Arhar/Tur,16100.0,19000.0
+Madhya Pradesh,INDORE,1997,Kharif     ,Arhar/Tur,800.0,500.0
+Madhya Pradesh,JABALPUR,1997,Kharif     ,Arhar/Tur,8800.0,8100.0
+Madhya Pradesh,JHABUA,1997,Kharif     ,Arhar/Tur,4400.0,2600.0
+Madhya Pradesh,KATNI,1998,Kharif     ,Arhar/Tur,3600.0,4600.0
+Madhya Pradesh,KHANDWA,1997,Kharif     ,Arhar/Tur,15300.0,12800.0
+Madhya Pradesh,KHARGONE,1997,Kharif     ,Arhar/Tur,22200.0,11700.0
+Madhya Pradesh,MANDLA,1997,Kharif     ,Jowar,400.0,200.0
+Madhya Pradesh,MANDSAUR,1997,Kharif     ,Arhar/Tur,3200.0,2000.0
+Madhya Pradesh,MORENA,1997,Kharif     ,Arhar/Tur,7200.0,6600.0
+Madhya Pradesh,NARSINGHPUR,1997,Kharif     ,Arhar/Tur,14800.0,20700.0
+Madhya Pradesh,NEEMUCH,1998,Kharif     ,Arhar/Tur,800.0,600.0
+Madhya Pradesh,PANNA,1997,Kharif     ,Arhar/Tur,5000.0,2500.0
+Madhya Pradesh,RAISEN,1997,Kharif     ,Arhar/Tur,21200.0,19200.0
+Madhya Pradesh,RAJGARH,1997,Kharif     ,Arhar/Tur,2800.0,2900.0
+Madhya Pradesh,RATLAM,1997,Kharif     ,Arhar/Tur,1100.0,900.0
+Madhya Pradesh,REWA,1997,Kharif     ,Arhar/Tur,12100.0,6700.0
+Madhya Pradesh,SAGAR,1997,Kharif     ,Arhar/Tur,2300.0,1300.0
+Madhya Pradesh,SATNA,1997,Kharif     ,Arhar/Tur,12900.0,7000.0
+Madhya Pradesh,SEHORE,1997,Kharif     ,Arhar/Tur,8300.0,4600.0
+Madhya Pradesh,SEONI,1997,Kharif     ,Arhar/Tur,5500.0,3100.0
+Madhya Pradesh,SHAHDOL,1997,Kharif     ,Arhar/Tur,14200.0,6300.0
+Madhya Pradesh,SHAJAPUR,1997,Kharif     ,Arhar/Tur,3100.0,1700.0
+Madhya Pradesh,SHEOPUR,1998,Kharif     ,Arhar/Tur,1600.0,1600.0
+Madhya Pradesh,SHIVPURI,1997,Kharif     ,Arhar/Tur,800.0,500.0
+Madhya Pradesh,SIDHI,1997,Kharif     ,Arhar/Tur,32800.0,16700.0
+Madhya Pradesh,SINGRAULI,2008,Kharif     ,Arhar/Tur,16925.0,8779.0
+Madhya Pradesh,TIKAMGARH,1997,Kharif     ,Arhar/Tur,1000.0,500.0
+Madhya Pradesh,UJJAIN,1997,Kharif     ,Arhar/Tur,1300.0,900.0
+Madhya Pradesh,UMARIA,1998,Kharif     ,Arhar/Tur,4700.0,2800.0
+Madhya Pradesh,VIDISHA,1997,Kharif     ,Arhar/Tur,1200.0,800.0
+Maharashtra,AHMEDNAGAR,1997,Autumn     ,Maize,1.0,1113.0
+Maharashtra,AKOLA,1997,Kharif     ,Arhar/Tur,81200.0,64400.0
+Maharashtra,AMRAVATI,1997,Kharif     ,Arhar/Tur,83400.0,61300.0
+Maharashtra,BEED,1997,Kharif     ,Arhar/Tur,44200.0,7200.0
+Maharashtra,BHANDARA,1997,Kharif     ,Arhar/Tur,10200.0,2700.0
+Maharashtra,BULDHANA,1997,Kharif     ,Arhar/Tur,63000.0,29700.0
+Maharashtra,CHANDRAPUR,1997,Kharif     ,Arhar/Tur,30300.0,9700.0
+Maharashtra,DHULE,1997,Autumn     ,Maize,4.0,2901.0
+Maharashtra,GADCHIROLI,1997,Kharif     ,Arhar/Tur,2100.0,600.0
+Maharashtra,GONDIA,1999,Kharif     ,Arhar/Tur,4000.0,3800.0
+Maharashtra,HINGOLI,1999,Kharif     ,Arhar/Tur,26000.0,13400.0
+Maharashtra,JALGAON,1997,Autumn     ,Maize,3.0,3980.0
+Maharashtra,JALNA,1997,Kharif     ,Arhar/Tur,37700.0,5600.0
+Maharashtra,KOLHAPUR,1997,Kharif     ,Arhar/Tur,3700.0,900.0
+Maharashtra,LATUR,1997,Kharif     ,Arhar/Tur,65000.0,2800.0
+Maharashtra,MUMBAI,1997,Autumn     ,Maize,3.0,2.0
+Maharashtra,NAGPUR,1997,Kharif     ,Arhar/Tur,51900.0,2500.0
+Maharashtra,NANDED,1997,Kharif     ,Arhar/Tur,46000.0,6000.0
+Maharashtra,NANDURBAR,1999,Kharif     ,Arhar/Tur,23400.0,12000.0
+Maharashtra,NASHIK,1997,Autumn     ,Maize,1.0,1494.0
+Maharashtra,OSMANABAD,1997,Autumn     ,Maize,5.0,5635.0
+Maharashtra,PALGHAR,2011,Summer     ,Groundnut,100.0,100.0
+Maharashtra,PARBHANI,1997,Kharif     ,Arhar/Tur,80000.0,4000.0
+Maharashtra,PUNE,1997,Autumn     ,Maize,4.0,4570.0
+Maharashtra,RAIGAD,1997,Kharif     ,Arhar/Tur,1300.0,600.0
+Maharashtra,RATNAGIRI,1997,Kharif     ,Arhar/Tur,500.0,200.0
+Maharashtra,SANGLI,1997,Kharif     ,Arhar/Tur,13600.0,3400.0
+Maharashtra,SATARA,1997,Kharif     ,Arhar/Tur,7600.0,1900.0
+Maharashtra,SINDHUDURG,1997,Kharif     ,Moong(Green Gram),100.0,100.0
+Maharashtra,SOLAPUR,1997,Kharif     ,Arhar/Tur,27000.0,2900.0
+Maharashtra,THANE,1997,Kharif     ,Arhar/Tur,2500.0,1200.0
+Maharashtra,WARDHA,1997,Kharif     ,Arhar/Tur,51100.0,16100.0
+Maharashtra,WASHIM,1999,Kharif     ,Arhar/Tur,38100.0,46800.0
+Maharashtra,YAVATMAL,1997,Kharif     ,Arhar/Tur,113200.0,78400.0
+Manipur,BISHNUPUR,1997,Kharif     ,Onion,2.0,5.0
+Manipur,CHANDEL,1997,Kharif     ,Maize,2.0,4.0
+Manipur,CHURACHANDPUR,1997,Kharif     ,Kapas,5.0,2.0
+Manipur,IMPHAL EAST,1997,Kharif     ,Rice,26.0,62.0
+Manipur,IMPHAL WEST,1997,Kharif     ,Rice,16.0,43.0
+Manipur,SENAPATI,1997,Kharif     ,Maize,1.0,8.0
+Manipur,TAMENGLONG,1997,Kharif     ,Maize,2.0,8.0
+Manipur,THOUBAL,1997,Kharif     ,Peas & beans (Pulses),2.0,1.0
+Manipur,UKHRUL,1997,Kharif     ,Rice,15.0,31.0
+Meghalaya,EAST GARO HILLS,1997,Kharif     ,Arhar/Tur,111.0,95.0
+Meghalaya,EAST JAINTIA HILLS,1997,Kharif     ,Dry ginger,109.0,490.0
+Meghalaya,EAST KHASI HILLS,1997,Kharif     ,Dry ginger,394.0,2571.0
+Meghalaya,NORTH GARO HILLS,2013,Kharif     ,Arhar/Tur,48.0,45.0
+Meghalaya,RI BHOI,1997,Kharif     ,Dry ginger,685.0,6658.0
+Meghalaya,SOUTH GARO HILLS,1997,Kharif     ,Arhar/Tur,98.0,76.0
+Meghalaya,SOUTH WEST GARO HILLS,2013,Kharif     ,Arhar/Tur,315.0,439.0
+Meghalaya,SOUTH WEST KHASI HILLS,2013,Kharif     ,Banana,277.0,1467.0
+Meghalaya,WEST GARO HILLS,1997,Kharif     ,Arhar/Tur,656.0,512.0
+Meghalaya,WEST JAINTIA HILLS,2013,Kharif     ,Banana,253.0,829.0
+Meghalaya,WEST KHASI HILLS,1997,Kharif     ,Dry ginger,162.0,897.0
+Mizoram,AIZAWL,1997,Kharif     ,Arhar/Tur,48.0,69.0
+Mizoram,CHAMPHAI,1997,Kharif     ,Arhar/Tur,3.0,8.0
+Mizoram,KOLASIB,1997,Kharif     ,Arhar/Tur,42.0,75.0
+Mizoram,LAWNGTLAI,2004,Kharif     ,Cotton(lint),4.0,17.0
+Mizoram,LUNGLEI,1997,Kharif     ,Arhar/Tur,38.0,60.0
+Mizoram,MAMIT,2003,Kharif     ,Arhar/Tur,24.0,28.0
+Mizoram,SAIHA,2003,Kharif     ,Arhar/Tur,2.0,1.0
+Mizoram,SERCHHIP,2004,Kharif     ,Maize,2049.0,1901.0
+Nagaland,DIMAPUR,2000,Kharif     ,Arhar/Tur,700.0,690.0
+Nagaland,KIPHIRE,2008,Kharif     ,Arhar/Tur,130.0,120.0
+Nagaland,KOHIMA,1997,Kharif     ,Bajra,200.0,140.0
+Nagaland,LONGLENG,2008,Kharif     ,Arhar/Tur,120.0,110.0
+Nagaland,MOKOKCHUNG,1997,Kharif     ,Bajra,140.0,100.0
+Nagaland,MON,1997,Kharif     ,Bajra,100.0,80.0
+Nagaland,PEREN,2008,Kharif     ,Arhar/Tur,230.0,200.0
+Nagaland,PHEK,1997,Kharif     ,Bajra,100.0,70.0
+Nagaland,TUENSANG,1997,Kharif     ,Bajra,100.0,70.0
+Nagaland,WOKHA,1997,Kharif     ,Bajra,250.0,170.0
+Nagaland,ZUNHEBOTO,1997,Kharif     ,Bajra,100.0,70.0
+Odisha,ANUGUL,1997,Autumn     ,Arhar/Tur,3555.0,739.0
+Odisha,BALANGIR,1997,Autumn     ,Arhar/Tur,4768.0,1117.0
+Odisha,BALESHWAR,1997,Autumn     ,Groundnut,1.0,1.0
+Odisha,BARGARH,1997,Autumn     ,Arhar/Tur,14149.0,3933.0
+Odisha,BHADRAK,1997,Autumn     ,Jute,1250.0,1410.0
+Odisha,BOUDH,1997,Autumn     ,Arhar/Tur,289.0,45.0
+Odisha,CUTTACK,1997,Autumn     ,Groundnut,446.0,302.0
+Odisha,DEOGARH,1997,Autumn     ,Arhar/Tur,1251.0,405.0
+Odisha,DHENKANAL,1997,Autumn     ,Arhar/Tur,322.0,32.0
+Odisha,GAJAPATI,1997,Autumn     ,Groundnut,21.0,20.0
+Odisha,GANJAM,1997,Autumn     ,Arhar/Tur,63.0,7.0
+Odisha,JAGATSINGHAPUR,1997,Autumn     ,Jute,110.0,120.0
+Odisha,JAJAPUR,1997,Autumn     ,Groundnut,561.0,383.0
+Odisha,JHARSUGUDA,1997,Autumn     ,Arhar/Tur,24.0,6.0
+Odisha,KALAHANDI,1997,Autumn     ,Arhar/Tur,37.0,3.0
+Odisha,KANDHAMAL,1997,Autumn     ,Groundnut,527.0,380.0
+Odisha,KENDRAPARA,1997,Autumn     ,Arhar/Tur,5.0,1.0
+Odisha,KENDUJHAR,1997,Autumn     ,Groundnut,219.0,149.0
+Odisha,KHORDHA,1997,Autumn     ,Jute,10.0,10.0
+Odisha,KORAPUT,1997,Autumn     ,Arhar/Tur,2.0,1.0
+Odisha,MALKANGIRI,1997,Autumn     ,Maize,1052.0,1082.0
+Odisha,MAYURBHANJ,1997,Autumn     ,Arhar/Tur,16.0,1.0
+Odisha,NABARANGPUR,1997,Autumn     ,Arhar/Tur,47.0,7.0
+Odisha,NAYAGARH,1997,Autumn     ,Groundnut,169.0,146.0
+Odisha,NUAPADA,1997,Autumn     ,Arhar/Tur,12.0,1.0
+Odisha,PURI,1997,Autumn     ,Jute,30.0,30.0
+Odisha,RAYAGADA,1997,Autumn     ,Arhar/Tur,21.0,8.0
+Odisha,SAMBALPUR,1997,Autumn     ,Arhar/Tur,304.0,68.0
+Odisha,SONEPUR,1997,Autumn     ,Arhar/Tur,467.0,56.0
+Odisha,SUNDARGARH,1997,Autumn     ,Arhar/Tur,289.0,57.0
+Puducherry,KARAIKAL,1998,Kharif     ,Dry chillies,2.0,5.0
+Puducherry,MAHE,1998,Kharif     ,Arecanut,66.0,23.0
+Puducherry,PONDICHERRY,1998,Kharif     ,Bajra,149.0,324.0
+Puducherry,YANAM,1998,Kharif     ,Coriander,2.0,1.0
+Punjab,AMRITSAR,1997,Kharif     ,Arhar/Tur,1800.0,1400.0
+Punjab,BARNALA,2007,Kharif     ,Arhar/Tur,100.0,100.0
+Punjab,BATHINDA,1997,Kharif     ,Bajra,1000.0,1000.0
+Punjab,FARIDKOT,1997,Kharif     ,Groundnut,1000.0,1000.0
+Punjab,FATEHGARH SAHIB,1997,Kharif     ,Arhar/Tur,600.0,600.0
+Punjab,FAZILKA,2011,Whole Year ,Sugarcane,1.0,73000.0
+Punjab,FIROZEPUR,1997,Kharif     ,Arhar/Tur,200.0,100.0
+Punjab,GURDASPUR,1997,Kharif     ,Arhar/Tur,100.0,100.0
+Punjab,HOSHIARPUR,1997,Kharif     ,Arhar/Tur,200.0,100.0
+Punjab,JALANDHAR,1997,Kharif     ,Arhar/Tur,600.0,300.0
+Punjab,KAPURTHALA,1997,Kharif     ,Arhar/Tur,100.0,100.0
+Punjab,LUDHIANA,1997,Kharif     ,Arhar/Tur,3000.0,2200.0
+Punjab,MANSA,1997,Kharif     ,Bajra,1000.0,1000.0
+Punjab,MOGA,1997,Kharif     ,Arhar/Tur,300.0,200.0
+Punjab,MUKTSAR,1997,Kharif     ,Rice,28000.0,97000.0
+Punjab,NAWANSHAHR,1997,Kharif     ,Arhar/Tur,100.0,100.0
+Punjab,PATHANKOT,2011,Whole Year ,Sugarcane,4.0,298000.0
+Punjab,PATIALA,1997,Kharif     ,Arhar/Tur,1000.0,800.0
+Punjab,RUPNAGAR,1997,Kharif     ,Arhar/Tur,1300.0,1000.0
+Punjab,S.A.S NAGAR,2006,Kharif     ,Arhar/Tur,200.0,200.0
+Punjab,SANGRUR,1997,Kharif     ,Arhar/Tur,1700.0,1200.0
+Punjab,TARN TARAN,2006,Kharif     ,Arhar/Tur,900.0,800.0
+Rajasthan,AJMER,1997,Kharif     ,Bajra,56600.0,30400.0
+Rajasthan,ALWAR,1997,Kharif     ,Arhar/Tur,20300.0,14600.0
+Rajasthan,BANSWARA,1997,Kharif     ,Arhar/Tur,6100.0,4300.0
+Rajasthan,BARAN,1997,Kharif     ,Arhar/Tur,100.0,100.0
+Rajasthan,BARMER,1997,Kharif     ,Bajra,882900.0,250600.0
+Rajasthan,BHARATPUR,1997,Kharif     ,Arhar/Tur,2700.0,3000.0
+Rajasthan,BHILWARA,1997,Kharif     ,Bajra,900.0,500.0
+Rajasthan,BIKANER,1997,Kharif     ,Bajra,239800.0,135100.0
+Rajasthan,BUNDI,1997,Kharif     ,Arhar/Tur,200.0,100.0
+Rajasthan,CHITTORGARH,1997,Kharif     ,Arhar/Tur,500.0,300.0
+Rajasthan,CHURU,1997,Kharif     ,Bajra,480200.0,296900.0
+Rajasthan,DAUSA,1997,Kharif     ,Arhar/Tur,1200.0,800.0
+Rajasthan,DHOLPUR,1997,Kharif     ,Arhar/Tur,2000.0,2900.0
+Rajasthan,DUNGARPUR,1997,Kharif     ,Arhar/Tur,1900.0,1600.0
+Rajasthan,GANGANAGAR,1997,Kharif     ,Bajra,2900.0,1600.0
+Rajasthan,HANUMANGARH,1997,Kharif     ,Bajra,68300.0,44600.0
+Rajasthan,JAIPUR,1997,Kharif     ,Arhar/Tur,2200.0,1600.0
+Rajasthan,JAISALMER,1997,Kharif     ,Bajra,149800.0,3200.0
+Rajasthan,JALORE,1997,Kharif     ,Bajra,328400.0,161400.0
+Rajasthan,JHALAWAR,1997,Kharif     ,Arhar/Tur,1300.0,500.0
+Rajasthan,JHUNJHUNU,1997,Kharif     ,Arhar/Tur,100.0,100.0
+Rajasthan,JODHPUR,1997,Kharif     ,Bajra,616200.0,239400.0
+Rajasthan,KARAULI,1997,Kharif     ,Arhar/Tur,500.0,200.0
+Rajasthan,KOTA,1997,Kharif     ,Arhar/Tur,100.0,100.0
+Rajasthan,NAGAUR,1997,Kharif     ,Bajra,459100.0,273800.0
+Rajasthan,PALI,1997,Kharif     ,Arhar/Tur,200.0,100.0
+Rajasthan,PRATAPGARH,2008,Kharif     ,Arhar/Tur,1539.0,1693.0
+Rajasthan,RAJSAMAND,1997,Kharif     ,Bajra,200.0,100.0
+Rajasthan,SAWAI MADHOPUR,1997,Kharif     ,Arhar/Tur,600.0,200.0
+Rajasthan,SIKAR,1997,Kharif     ,Arhar/Tur,300.0,200.0
+Rajasthan,SIROHI,1997,Kharif     ,Arhar/Tur,800.0,800.0
+Rajasthan,TONK,1997,Kharif     ,Arhar/Tur,100.0,100.0
+Rajasthan,UDAIPUR,1997,Kharif     ,Arhar/Tur,4300.0,4400.0
+Sikkim,EAST DISTRICT,1998,Kharif     ,Maize,9690.0,16450.0
+Sikkim,NORTH DISTRICT,1998,Kharif     ,Maize,3093.0,2230.0
+Sikkim,SOUTH DISTRICT,1998,Kharif     ,Maize,13300.0,16620.0
+Sikkim,WEST DISTRICT,1998,Kharif     ,Maize,13300.0,18500.0
+Tamil Nadu,ARIYALUR,2009,Kharif     ,Rice,25978.0,80462.0
+Tamil Nadu,COIMBATORE,1997,Kharif     ,Banana,5619.0,183740.0
+Tamil Nadu,CUDDALORE,1997,Kharif     ,Banana,3201.0,79293.0
+Tamil Nadu,DHARMAPURI,1997,Kharif     ,Banana,1354.0,53114.0
+Tamil Nadu,DINDIGUL,1997,Kharif     ,Banana,1224.0,21498.0
+Tamil Nadu,ERODE,1997,Kharif     ,Banana,2755.0,100639.0
+Tamil Nadu,KANCHIPURAM,1997,Kharif     ,Banana,145.0,3004.0
+Tamil Nadu,KANNIYAKUMARI,1997,Kharif     ,Banana,5282.0,120433.0
+Tamil Nadu,KARUR,1997,Kharif     ,Banana,5092.0,181514.0
+Tamil Nadu,KRISHNAGIRI,2002,Whole Year ,Dry ginger,2.0,32.0
+Tamil Nadu,MADURAI,1997,Kharif     ,Banana,1769.0,54752.0
+Tamil Nadu,NAGAPATTINAM,1997,Kharif     ,Banana,575.0,14622.0
+Tamil Nadu,NAMAKKAL,1997,Kharif     ,Banana,1239.0,27016.0
+Tamil Nadu,PERAMBALUR,1997,Kharif     ,Banana,372.0,13261.0
+Tamil Nadu,PUDUKKOTTAI,1997,Kharif     ,Banana,3558.0,106791.0
+Tamil Nadu,RAMANATHAPURAM,1997,Kharif     ,Banana,88.0,3141.0
+Tamil Nadu,SALEM,1997,Kharif     ,Banana,1216.0,26514.0
+Tamil Nadu,SIVAGANGA,1997,Kharif     ,Banana,284.0,9941.0
+Tamil Nadu,THANJAVUR,1997,Kharif     ,Banana,2937.0,75114.0
+Tamil Nadu,THE NILGIRIS,1997,Kharif     ,Banana,106.0,3268.0
+Tamil Nadu,THENI,1997,Kharif     ,Banana,1970.0,34600.0
+Tamil Nadu,THIRUVALLUR,1997,Kharif     ,Banana,5582.0,115644.0
+Tamil Nadu,THIRUVARUR,1997,Kharif     ,Banana,342.0,8747.0
+Tamil Nadu,TIRUCHIRAPPALLI,1997,Kharif     ,Banana,11005.0,392293.0
+Tamil Nadu,TIRUNELVELI,1997,Kharif     ,Banana,6049.0,187507.0
+Tamil Nadu,TIRUPPUR,2009,Kharif     ,Rice,11958.0,50179.0
+Tamil Nadu,TIRUVANNAMALAI,1997,Kharif     ,Banana,1757.0,66962.0
+Tamil Nadu,TUTICORIN,1997,Kharif     ,Banana,17010.0,685918.0
+Tamil Nadu,VELLORE,1997,Kharif     ,Banana,4121.0,137719.0
+Tamil Nadu,VILLUPURAM,1997,Kharif     ,Banana,1306.0,38416.0
+Tamil Nadu,VIRUDHUNAGAR,1997,Kharif     ,Banana,491.0,16863.0
+Telangana ,ADILABAD,1997,Kharif     ,Arhar/Tur,32200.0,1100.0
+Telangana ,HYDERABAD,1997,Kharif     ,Rice,100.0,100.0
+Telangana ,KARIMNAGAR,1997,Kharif     ,Arhar/Tur,3100.0,400.0
+Telangana ,KHAMMAM,1997,Kharif     ,Arhar/Tur,25400.0,8400.0
+Telangana ,MAHBUBNAGAR,1997,Kharif     ,Arhar/Tur,36200.0,6100.0
+Telangana ,MEDAK,1997,Kharif     ,Arhar/Tur,10700.0,100.0
+Telangana ,NALGONDA,1997,Kharif     ,Arhar/Tur,26100.0,2800.0
+Telangana ,NIZAMABAD,1997,Kharif     ,Arhar/Tur,1900.0,200.0
+Telangana ,RANGAREDDI,1997,Kharif     ,Arhar/Tur,28900.0,1100.0
+Telangana ,WARANGAL,1997,Kharif     ,Arhar/Tur,11200.0,1500.0
+Tripura,DHALAI,1998,Kharif     ,Arhar/Tur,135.0,100.0
+Tripura,GOMATI,2012,Kharif     ,Arhar/Tur,108.0,76.0
+Tripura,KHOWAI,2012,Kharif     ,Arhar/Tur,163.0,116.0
+Tripura,NORTH TRIPURA,1998,Kharif     ,Arhar/Tur,180.0,120.0
+Tripura,SEPAHIJALA,2012,Kharif     ,Arhar/Tur,198.0,171.0
+Tripura,SOUTH TRIPURA,1998,Kharif     ,Arhar/Tur,235.0,140.0
+Tripura,UNAKOTI,2012,Kharif     ,Arhar/Tur,73.0,58.0
+Tripura,WEST TRIPURA,1998,Kharif     ,Arhar/Tur,240.0,160.0
+Uttar Pradesh,AGRA,1997,Kharif     ,Arhar/Tur,6538.0,9664.0
+Uttar Pradesh,ALIGARH,1997,Kharif     ,Arhar/Tur,19950.0,13213.0
+Uttar Pradesh,ALLAHABAD,1997,Kharif     ,Arhar/Tur,11575.0,31104.0
+Uttar Pradesh,AMBEDKAR NAGAR,1997,Kharif     ,Arhar/Tur,4543.0,6978.0
+Uttar Pradesh,AMETHI,2010,Kharif     ,Bajra,550.0,645.0
+Uttar Pradesh,AMROHA,1997,Kharif     ,Arhar/Tur,355.0,244.0
+Uttar Pradesh,AURAIYA,1997,Kharif     ,Arhar/Tur,5714.0,5871.0
+Uttar Pradesh,AZAMGARH,1997,Kharif     ,Arhar/Tur,10853.0,6995.0
+Uttar Pradesh,BAGHPAT,1997,Kharif     ,Arhar/Tur,855.0,601.0
+Uttar Pradesh,BAHRAICH,1997,Kharif     ,Arhar/Tur,5445.0,2976.0
+Uttar Pradesh,BALLIA,1997,Kharif     ,Arhar/Tur,6324.0,4997.0
+Uttar Pradesh,BANDA,1997,Kharif     ,Arhar/Tur,15263.0,25099.0
+Uttar Pradesh,BARABANKI,1997,Kharif     ,Arhar/Tur,6625.0,10176.0
+Uttar Pradesh,BAREILLY,1997,Kharif     ,Arhar/Tur,1415.0,736.0
+Uttar Pradesh,BASTI,1997,Kharif     ,Arhar/Tur,10349.0,6409.0
+Uttar Pradesh,BIJNOR,1997,Kharif     ,Arhar/Tur,399.0,274.0
+Uttar Pradesh,BUDAUN,1997,Kharif     ,Arhar/Tur,2361.0,1227.0
+Uttar Pradesh,BULANDSHAHR,1997,Kharif     ,Arhar/Tur,11889.0,8361.0
+Uttar Pradesh,CHANDAULI,1997,Kharif     ,Arhar/Tur,2494.0,2856.0
+Uttar Pradesh,CHITRAKOOT,1997,Kharif     ,Arhar/Tur,12085.0,21479.0
+Uttar Pradesh,DEORIA,1997,Kharif     ,Arhar/Tur,12125.0,11379.0
+Uttar Pradesh,ETAH,1997,Kharif     ,Arhar/Tur,7316.0,4846.0
+Uttar Pradesh,ETAWAH,1997,Kharif     ,Arhar/Tur,4768.0,9685.0
+Uttar Pradesh,FAIZABAD,1997,Kharif     ,Arhar/Tur,4787.0,7352.0
+Uttar Pradesh,FARRUKHABAD,1997,Kharif     ,Arhar/Tur,2562.0,2633.0
+Uttar Pradesh,FATEHPUR,1997,Kharif     ,Arhar/Tur,16423.0,28766.0
+Uttar Pradesh,FIROZABAD,1997,Kharif     ,Arhar/Tur,1986.0,1315.0
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,1997,Kharif     ,Arhar/Tur,1741.0,1225.0
+Uttar Pradesh,GHAZIABAD,1997,Kharif     ,Arhar/Tur,2071.0,1457.0
+Uttar Pradesh,GHAZIPUR,1997,Kharif     ,Arhar/Tur,5676.0,4369.0
+Uttar Pradesh,GONDA,1997,Kharif     ,Arhar/Tur,6852.0,3745.0
+Uttar Pradesh,GORAKHPUR,1997,Kharif     ,Arhar/Tur,15003.0,14079.0
+Uttar Pradesh,HAPUR,2012,Kharif     ,Arhar/Tur,942.0,924.0
+Uttar Pradesh,HARDOI,1997,Kharif     ,Arhar/Tur,9323.0,3279.0
+Uttar Pradesh,HATHRAS,1997,Kharif     ,Arhar/Tur,6727.0,4455.0
+Uttar Pradesh,JALAUN,1997,Kharif     ,Arhar/Tur,8227.0,9023.0
+Uttar Pradesh,JAUNPUR,1997,Kharif     ,Arhar/Tur,11101.0,12714.0
+Uttar Pradesh,JHANSI,1997,Kharif     ,Arhar/Tur,4855.0,3825.0
+Uttar Pradesh,KANNAUJ,1997,Kharif     ,Arhar/Tur,3571.0,3669.0
+Uttar Pradesh,KANPUR DEHAT,1997,Kharif     ,Arhar/Tur,10215.0,18589.0
+Uttar Pradesh,KANPUR NAGAR,1997,Kharif     ,Arhar/Tur,9861.0,17694.0
+Uttar Pradesh,KASGANJ,2009,Kharif     ,Arhar/Tur,1336.0,1196.0
+Uttar Pradesh,KAUSHAMBI,1997,Kharif     ,Arhar/Tur,7847.0,23120.0
+Uttar Pradesh,KHERI,1997,Kharif     ,Arhar/Tur,3853.0,1233.0
+Uttar Pradesh,KUSHI NAGAR,1997,Kharif     ,Arhar/Tur,1621.0,1521.0
+Uttar Pradesh,LALITPUR,1997,Kharif     ,Arhar/Tur,124.0,107.0
+Uttar Pradesh,LUCKNOW,1997,Kharif     ,Arhar/Tur,4268.0,1501.0
+Uttar Pradesh,MAHARAJGANJ,1997,Kharif     ,Arhar/Tur,2272.0,2132.0
+Uttar Pradesh,MAHOBA,1997,Kharif     ,Arhar/Tur,4432.0,4268.0
+Uttar Pradesh,MAINPURI,1997,Kharif     ,Arhar/Tur,1941.0,1286.0
+Uttar Pradesh,MATHURA,1997,Kharif     ,Arhar/Tur,5782.0,3830.0
+Uttar Pradesh,MAU,1997,Kharif     ,Arhar/Tur,3672.0,2426.0
+Uttar Pradesh,MEERUT,1997,Kharif     ,Arhar/Tur,986.0,693.0
+Uttar Pradesh,MIRZAPUR,1997,Kharif     ,Arhar/Tur,13899.0,8461.0
+Uttar Pradesh,MORADABAD,1997,Kharif     ,Arhar/Tur,648.0,446.0
+Uttar Pradesh,MUZAFFARNAGAR,1997,Kharif     ,Arhar/Tur,200.0,139.0
+Uttar Pradesh,PILIBHIT,1997,Kharif     ,Arhar/Tur,566.0,294.0
+Uttar Pradesh,RAE BARELI,1997,Kharif     ,Arhar/Tur,13751.0,8124.0
+Uttar Pradesh,RAMPUR,1997,Kharif     ,Arhar/Tur,666.0,458.0
+Uttar Pradesh,SAHARANPUR,1997,Kharif     ,Arhar/Tur,39.0,27.0
+Uttar Pradesh,SAMBHAL,2012,Kharif     ,Arhar/Tur,367.0,314.0
+Uttar Pradesh,SANT KABEER NAGAR,1997,Kharif     ,Arhar/Tur,3895.0,2412.0
+Uttar Pradesh,SANT RAVIDAS NAGAR,1997,Kharif     ,Arhar/Tur,4780.0,2869.0
+Uttar Pradesh,SHAHJAHANPUR,1997,Kharif     ,Arhar/Tur,1666.0,866.0
+Uttar Pradesh,SHAMLI,2012,Kharif     ,Arhar/Tur,4.0,3.0
+Uttar Pradesh,SHRAVASTI,1997,Kharif     ,Arhar/Tur,3878.0,2119.0
+Uttar Pradesh,SIDDHARTH NAGAR,1997,Kharif     ,Arhar/Tur,5028.0,3113.0
+Uttar Pradesh,SITAPUR,1997,Kharif     ,Arhar/Tur,16603.0,7103.0
+Uttar Pradesh,SONBHADRA,1997,Kharif     ,Arhar/Tur,10594.0,6358.0
+Uttar Pradesh,SULTANPUR,1997,Kharif     ,Arhar/Tur,10986.0,16874.0
+Uttar Pradesh,UNNAO,1997,Kharif     ,Arhar/Tur,10685.0,5746.0
+Uttar Pradesh,VARANASI,1997,Kharif     ,Arhar/Tur,6379.0,7306.0
+Uttarakhand,ALMORA,2000,Kharif     ,Arhar/Tur,5.0,2.0
+Uttarakhand,BAGESHWAR,2000,Kharif     ,Horse-gram,287.0,215.0
+Uttarakhand,CHAMOLI,2000,Kharif     ,Arhar/Tur,100.0,55.0
+Uttarakhand,CHAMPAWAT,2000,Kharif     ,Horse-gram,423.0,212.0
+Uttarakhand,DEHRADUN,2000,Kharif     ,Arhar/Tur,193.0,107.0
+Uttarakhand,HARIDWAR,2000,Kharif     ,Arhar/Tur,1.0,1.0
+Uttarakhand,NAINITAL,2000,Kharif     ,Arhar/Tur,1.0,1.0
+Uttarakhand,PAURI GARHWAL,2000,Kharif     ,Arhar/Tur,320.0,128.0
+Uttarakhand,PITHORAGARH,2000,Kharif     ,Horse-gram,134.0,80.0
+Uttarakhand,RUDRA PRAYAG,2000,Kharif     ,Arhar/Tur,61.0,37.0
+Uttarakhand,TEHRI GARHWAL,2000,Kharif     ,Arhar/Tur,973.0,516.0
+Uttarakhand,UDAM SINGH NAGAR,2000,Kharif     ,Arhar/Tur,43.0,32.0
+Uttarakhand,UTTAR KASHI,2000,Kharif     ,Arhar/Tur,193.0,102.0
+West Bengal,24 PARAGANAS NORTH,1997,Autumn     ,Rice,15017.0,33840.0
+West Bengal,24 PARAGANAS SOUTH,1997,Autumn     ,Rice,2409.0,5270.0
+West Bengal,BANKURA,1997,Autumn     ,Rice,38211.0,88120.0
+West Bengal,BARDHAMAN,1997,Autumn     ,Rice,34675.0,91590.0
+West Bengal,BIRBHUM,1997,Autumn     ,Rice,8342.0,20290.0
+West Bengal,COOCHBEHAR,1997,Autumn     ,Ragi,5.0,2.0
+West Bengal,DARJEELING,1997,Autumn     ,Ragi,11260.0,13512.0
+West Bengal,DINAJPUR DAKSHIN,1997,Autumn     ,Rice,4783.0,4890.0
+West Bengal,DINAJPUR UTTAR,1997,Autumn     ,Ragi,625.0,1151.0
+West Bengal,HOOGHLY,1997,Autumn     ,Rice,9712.0,21660.0
+West Bengal,HOWRAH,1997,Autumn     ,Rice,373.0,950.0
+West Bengal,JALPAIGURI,1997,Autumn     ,Ragi,520.0,598.0
+West Bengal,MALDAH,1997,Autumn     ,Rice,17986.0,22930.0
+West Bengal,MEDINIPUR EAST,1997,Autumn     ,Rice,15791.0,39560.0
+West Bengal,MEDINIPUR WEST,1997,Autumn     ,Rice,55288.0,105780.0
+West Bengal,MURSHIDABAD,1997,Autumn     ,Rice,43480.0,65000.0
+West Bengal,NADIA,1997,Autumn     ,Rice,55567.0,98910.0
+West Bengal,PURULIA,1997,Autumn     ,Ragi,197.0,67.0
